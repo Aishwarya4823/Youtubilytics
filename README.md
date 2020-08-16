@@ -37,3 +37,11 @@ was trending with already accumulated results for its properties such as likes, 
 5) Hour with the maximum downloads is on average, Tuesday at 5 am<br>
 6) The best time to upload to increase chances of trending the video is 5 am on a Friday<br>
 7) Most of the trending Youtube videos are published on weekdays rather than weekends.<br>
+
+# Huge Thanks To
+1) Professor John Bono, who gave us this humble opportunity as capstone project for his course(Data Processing and Analysis in Python)
+<br>
+2) Jiakun Luo (Team Member)<br>
+3) Wenjing Cui (Team Member)<br>
+4) Huyen Nguyen (Team Member)<br>
+5) Cindy Chang (Team Member)<br>
