@@ -15,7 +15,8 @@ During the course of this project, using Python only, we tried to answer questio
    • When were the trending videos usually published? On which days of the week? At which times of the day?<br>
    
  <br>
-# Dataset
+ 
+#  Dataset<br>
 Mainly three major data processing tasks took place:
 <br>
 1) Combining video data from 10 countries into one Excel file<br>
@@ -23,7 +24,7 @@ Mainly three major data processing tasks took place:
 category names, extracted from the json file, with the original dataset.<br>
 3) There were multiple instances of the top trending video during the life of the video. We ensured we kept the latest record of when the video
 was trending with already accumulated results for its properties such as likes, dislikes, comments, shares, downloads, etc.<br>
-4) Data manipulation such as normalizing the data, converting the datatype of the data, replacing nan with either a suitable number depending on the frequency of the mode value or removing those rows completely if they were very small in number, etc
+4) Data manipulation such as normalizing the data, converting the datatype of the data, replacing nan with either a suitable number depending on the frequency of the mode value or removing those rows completely if they were very small in number, etc<br>
 <br>
 <br>
 
